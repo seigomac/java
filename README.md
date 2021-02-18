@@ -1,6 +1,6 @@
 # java
 
-# Docker 起動
+#Docker 起動
 
 // dockerビルド
 % docker-compose build
